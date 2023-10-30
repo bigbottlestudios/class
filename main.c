@@ -29,6 +29,8 @@ int main() {
     int res3 = Add2Numbers(2, 100);
     printf("%d\n", res3);
 
+    printf(" Hello Noman \n");
+
     return 0;
 }
 
